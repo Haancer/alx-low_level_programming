@@ -9,12 +9,9 @@
 
 int main(void)
 {
-	char name[] = "KINGSLEY";
-
-	for (int i = 0; i < strlen(name) ; i++)
+	for (int i = 97; i < 123 ; i++)
 	{
-		name[i] = tolower(name[i]);
-		putchar(name[i]);
+		putchar(i);
 	}
 
 	putchar('\n');
