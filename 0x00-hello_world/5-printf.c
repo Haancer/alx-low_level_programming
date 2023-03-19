@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
+/**
  *main - where main program runs
- *Return : returns 0 if program runs succesfully
+ *Return: returns 0 if program runs succesfully
  */
 int main(void)
 {
