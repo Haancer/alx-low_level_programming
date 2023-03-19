@@ -5,7 +5,8 @@
 
 /**
  *main - where the main program runs
- *return: returns 0 if prog is successful
+ *
+ *Return: returns 0 if prog is successful
  */
 int main(void)
 {
