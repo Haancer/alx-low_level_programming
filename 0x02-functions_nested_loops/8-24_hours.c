@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* jack_bauer p- prints time
+* jack_bauer - prints time
 *
 *Return: returns 0 if prog runs smoothly
 */
@@ -24,6 +24,7 @@ void jack_bauer(void)
 					_putchar(58);
 					_putchar(c + 48);
 					_putchar(d + 48);
+					_putchar('\n');
 				}
 			}
 		}
