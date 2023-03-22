@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _islower - output is 1 if a is lower alphabet
+* _isalpha - output is 1 if a is lower alphabet
 *
 * @c: Character in ASCII code
 *
