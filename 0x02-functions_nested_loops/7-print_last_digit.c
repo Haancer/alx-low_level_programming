@@ -2,6 +2,8 @@
 /**
 * print_last_digit - prints last number
 *
+*@a: an inter input
+*
 *Return: returns 0 if prog runs smoothly
 */
 
